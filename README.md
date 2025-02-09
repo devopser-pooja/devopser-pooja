@@ -1,5 +1,5 @@
 
-![title](https://github.com/user-attachments/assets/1d346daf-cf82-45eb-9543-781c9cac4a05)
+![title](https://github.com/user-attachments/assets/3394dd8f-6fe5-45c5-be4a-f64481bd0799)
 
 <h1 align="center">Hi 👋, I'm Pooja Paturkar</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
