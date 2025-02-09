@@ -6,7 +6,6 @@
 
 <img align="right" alt="coding" width="400" src="236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malharkt&label=Profile%20views&color=0e75b6&style=flat" alt="malharkt" /> </p>
 - 🌱 I’m currently learning **Devops Tools**
 
 - 💬 Ask me about **Docker**
