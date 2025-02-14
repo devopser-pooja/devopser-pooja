@@ -5,6 +5,8 @@
 <h3 align="center">A passionate Devops Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devopser-pooja&label=Profile%20views&color=0e75b6&style=flat" alt="devopser-pooja" /> </p>
+
 
 - 🌱 I’m currently learning **Devops Tools**
 
